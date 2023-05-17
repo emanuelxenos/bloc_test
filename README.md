@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+Este foi um projeto que criei para testar o blco, foi apenas um projeto para estudo, então eu decidi guardar aqui.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
