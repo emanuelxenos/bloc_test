@@ -1,10 +1,12 @@
 # bloctest
 
-A new Flutter project.
+Projeto para testar, e conhecer um pouco o bloc.
 
 ## Getting Started
 
 Este foi um projeto que criei para testar o blco, foi apenas um projeto para estudo, então eu decidi guardar aqui.
+
+Abaixo vou deixar a descrição padrão do flutter, para quem quer iniciar.
 
 This project is a starting point for a Flutter application.
 
